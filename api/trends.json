@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T07:10:42.301108+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2025-12-14T08:54:30.713213+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             13,
             19,
             5,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 07时10分]"
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 08时54分]"
         },
         {
           "title": "泰国军队称空袭柬埔寨两处军事目标",
