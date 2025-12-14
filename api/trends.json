@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T06:10:21.588133+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2025-12-15T07:10:25.215268+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             5,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 06时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 07时10分]"
         },
         {
           "title": "边境冲突持续升级 泰国考虑阻断对柬埔寨燃料出口",
