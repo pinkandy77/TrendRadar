@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T14:19:48.696253+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2025-12-15T15:17:10.141053+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "泰军方称柬埔寨使用火箭炮袭击平民",
@@ -34,6 +34,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时11分 ~ 06时10分]"
+        },
+        {
+          "title": "柬埔寨军方：绝不会向泰国交出一分一毫领土",
+          "url": "https://news.ifeng.com/c/8p6U96Ub2eh",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
+        },
+        {
+          "title": "柬埔寨称泰军扩大空袭范围 柬平民死亡人数升至12人",
+          "url": "https://wallstreetcn.com/livenews/3020775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         }
       ]
     }
