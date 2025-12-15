@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T01:17:43.791788+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2025-12-16T02:17:19.722927+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "泰国F-16空袭柬埔寨弹药库画面曝光",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时17分]"
+        },
+        {
+          "title": "柬埔寨谴责泰国对柬武装进攻",
+          "url": "https://flash.jin10.com/detail/20251216014135468800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         }
       ]
     }
