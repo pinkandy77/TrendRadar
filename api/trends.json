@@ -1,72 +1,22 @@
 {
-  "generated_at": "2025-12-15T23:16:13.608347+08:00",
-  "total_titles_processed": 1925,
+  "generated_at": "2025-12-16T00:16:36.263988+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
-          "title": "泰军方称柬埔寨使用火箭炮袭击平民",
-          "url": "https://www.toutiao.com/trending/7582903450829897771/",
+          "title": "泰国F-16空袭柬埔寨弹药库画面曝光",
+          "url": "https://www.toutiao.com/trending/7583415261320331314/",
           "source": "今日头条",
           "ranks": [
-            2,
-            5,
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时10分]"
-        },
-        {
-          "title": "边境冲突持续升级 泰国考虑阻断对柬埔寨燃料出口",
-          "url": "https://flash.jin10.com/detail/20251214212919727800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            16,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 06时10分]"
-        },
-        {
-          "title": "柬埔寨军方：绝不会向泰国交出一分一毫领土",
-          "url": "https://news.ifeng.com/c/8p6U96Ub2eh",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 16时18分]"
-        },
-        {
-          "title": "冲突愈演愈烈 泰国和柬埔寨有啥盘算",
-          "url": "https://www.toutiao.com/trending/7583977408001216036/",
-          "source": "今日头条",
-          "ranks": [
-            7
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "柬埔寨称泰军扩大空袭范围 柬平民死亡人数升至12人",
-          "url": "https://wallstreetcn.com/livenews/3020775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
+          "time_info": "00时16分"
         }
       ]
     }
