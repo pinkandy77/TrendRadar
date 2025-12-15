@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T15:17:10.141053+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2025-12-15T16:18:19.141434+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 15时17分]"
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 16时18分]"
         },
         {
           "title": "柬埔寨称泰军扩大空袭范围 柬平民死亡人数升至12人",
@@ -53,7 +53,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
