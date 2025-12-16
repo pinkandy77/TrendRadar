@@ -1,125 +1,44 @@
 {
-  "generated_at": "2025-12-16T23:14:12.019313+08:00",
-  "total_titles_processed": 2219,
+  "generated_at": "2025-12-17T00:15:33.927636+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 16,
+      "match_count": 5,
       "titles": [
         {
-          "title": "泰国F-16空袭柬埔寨弹药库画面曝光",
-          "url": "https://www.toutiao.com/trending/7583415261320331314/",
+          "title": "学者：泰国要彻底打残柬埔寨军队",
+          "url": "https://www.toutiao.com/trending/7584354133264567814/",
           "source": "今日头条",
           "ranks": [
-            1,
-            13,
-            30
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 10时48分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "柬埔寨",
+          "url": "https://s.weibo.com/weibo?q=%E6%9F%AC%E5%9F%94%E5%AF%A8&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            13,
-            12,
-            10,
-            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时47分 ~ 23时14分]"
-        },
-        {
-          "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://news.ifeng.com/c/8p7htngCHQD",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时47分 ~ 15时15分]"
-        },
-        {
-          "title": "泰国为何拒绝与柬埔寨谈判",
-          "url": "https://www.toutiao.com/trending/7584226278530633252/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时50分 ~ 10时48分]"
-        },
-        {
-          "title": "柬方称泰军扩大空袭范围，柬埔寨学生背着书包四散奔逃(图)",
-          "url": "https://news.ifeng.com/c/8p8HEeRLRwe",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时16分 ~ 21时32分]"
-        },
-        {
-          "title": "学者：泰国要彻底打残柬埔寨军队",
-          "url": "https://www.toutiao.com/trending/7584354133264567814/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时32分 ~ 23时14分]"
-        },
-        {
-          "title": "柬埔寨为何不接受泰方的停火条件",
-          "url": "https://www.toutiao.com/trending/7584407082753855027/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时21分 ~ 23时14分]"
-        },
-        {
-          "title": "泰国出动F-16空袭柬埔寨弹药库",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%87%BA%E5%8A%A8F-16%E7%A9%BA%E8%A2%AD%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%BC%B9%E8%8D%AF%E5%BA%93",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            10,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时50分 ~ 12时26分]"
-        },
-        {
-          "title": "柬埔寨",
-          "url": "https://s.weibo.com/weibo?q=%E6%9F%AC%E5%9F%94%E5%AF%A8&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时32分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "泰国出动 F-16 空袭柬埔寨弹药库，此次冲突双方的装备实力对比如何？还有哪些「杀手锏」没投入战场？",
@@ -129,74 +48,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
-          "title": "柬埔寨称一小学遭泰国轰炸",
-          "url": "https://www.toutiao.com/trending/7584043729053810729/",
+          "title": "柬埔寨为何不接受泰方的停火条件",
+          "url": "https://www.toutiao.com/trending/7584407082753855027/",
           "source": "今日头条",
           "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
-        },
-        {
-          "title": "泰方称柬方必须率先宣布停火 柬埔寨暂无回应",
-          "url": "https://wallstreetcn.com/livenews/3021675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "柬埔寨谴责泰国对柬武装进攻",
-          "url": "https://flash.jin10.com/detail/20251216014135468800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "柬埔寨内政部：截至今日7时，新一轮泰柬边境冲突已造成15名柬平民死亡，另有76人受伤，约42.27万人流离失所。",
-          "url": "https://flash.jin10.com/detail/20251216154529463800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "泰国外交部：柬埔寨必须率先宣布停火",
-          "url": "https://flash.jin10.com/detail/20251216195219411800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "泰国计划包机接回滞留在柬埔寨的公民",
-          "url": "https://wallstreetcn.com/livenews/3021772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
+          "time_info": "00时15分"
         }
       ]
     }
