@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-16T07:12:00.434918+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2025-12-16T08:50:54.964855+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "泰国F-16空袭柬埔寨弹药库画面曝光",
           "url": "https://www.toutiao.com/trending/7583415261320331314/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 07时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 08时50分]"
+        },
+        {
+          "title": "泰国为何拒绝与柬埔寨谈判",
+          "url": "https://www.toutiao.com/trending/7584226278530633252/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
         },
         {
           "title": "柬埔寨谴责泰国对柬武装进攻",
@@ -28,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "泰国出动F-16空袭柬埔寨弹药库",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%87%BA%E5%8A%A8F-16%E7%A9%BA%E8%A2%AD%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%BC%B9%E8%8D%AF%E5%BA%93",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
         }
       ]
     }
