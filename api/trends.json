@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T18:13:34.649536+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2025-12-16T19:11:39.823224+08:00",
+  "total_titles_processed": 1810,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             13,
             12,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时47分 ~ 18时13分]"
+          "appearance_count": 12,
+          "time_info": "[10时47分 ~ 19时11分]"
         },
         {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -81,8 +82,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 19时11分]"
         },
         {
           "title": "柬埔寨谴责泰国对柬武装进攻",
