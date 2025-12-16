@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T05:12:41.926468+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2025-12-17T06:11:10.904140+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             4,
             5,
             7,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时11分]"
         },
         {
           "title": "柬埔寨",
@@ -31,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时11分]"
         },
         {
           "title": "泰国出动 F-16 空袭柬埔寨弹药库，此次冲突双方的装备实力对比如何？还有哪些「杀手锏」没投入战场？",
@@ -42,8 +43,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时11分]"
         },
         {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -55,8 +56,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时11分]"
         },
         {
           "title": "柬埔寨为何不接受泰方的停火条件",
@@ -68,8 +69,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时11分]"
         },
         {
           "title": "柬埔寨士兵猛烈开火",
@@ -81,8 +82,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 06时11分]"
         }
       ]
     }
