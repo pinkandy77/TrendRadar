@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T07:10:43.318057+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2025-12-17T08:45:43.932360+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
@@ -30,22 +30,24 @@
           "source": "微博",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 07时10分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 08时45分]"
         },
         {
           "title": "泰国出动 F-16 空袭柬埔寨弹药库，此次冲突双方的装备实力对比如何？还有哪些「杀手锏」没投入战场？",
           "url": "https://www.zhihu.com/question/1984216315544695537",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 07时10分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 08时45分]"
         },
         {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
