@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T01:16:22.214278+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2025-12-18T02:17:53.890081+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "泰国在柬埔寨阵地缴获中国制造的装备，外交部回应",
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时17分]"
         },
         {
           "title": "泰国为何对柬埔寨如此强硬",
@@ -24,11 +24,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时17分]"
+        },
+        {
+          "title": "泰国开出停火条件 柬埔寨会接受吗",
+          "url": "https://www.toutiao.com/trending/7584689693174795782/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时17分]"
         },
         {
           "title": "外交部发言人就外交部亚洲事务特使将再次赴柬埔寨、泰国穿梭调停答记者问",
@@ -43,15 +55,15 @@
           "time_info": "[00时15分 ~ 01时16分]"
         },
         {
-          "title": "泰国开出停火条件 柬埔寨会接受吗",
-          "url": "https://www.toutiao.com/trending/7584689693174795782/",
-          "source": "今日头条",
+          "title": "泰军炮击柬埔寨境内赌场电诈基地",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%86%9B%E7%82%AE%E5%87%BB%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A2%83%E5%86%85%E8%B5%8C%E5%9C%BA%E7%94%B5%E8%AF%88%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            21
+            20
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         }
       ]
     }
