@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T00:15:22.389040+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-18T01:16:22.214278+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时16分]"
         },
         {
           "title": "泰国为何对柬埔寨如此强硬",
           "url": "https://search.bilibili.com/all?keyword=%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%AF%B9%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A6%82%E6%AD%A4%E5%BC%BA%E7%A1%AC",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时16分]"
         },
         {
           "title": "外交部发言人就外交部亚洲事务特使将再次赴柬埔寨、泰国穿梭调停答记者问",
           "url": "https://wallstreetcn.com/livenews/3022506",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时16分]"
         },
         {
           "title": "泰国开出停火条件 柬埔寨会接受吗",
@@ -48,8 +50,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时16分]"
         }
       ]
     }
