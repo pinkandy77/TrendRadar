@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T03:13:28.818628+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2025-12-18T04:12:48.397819+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时12分]"
         },
         {
           "title": "泰国为何对柬埔寨如此强硬",
@@ -25,11 +25,12 @@
           "ranks": [
             16,
             13,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时12分]"
         },
         {
           "title": "泰国开出停火条件 柬埔寨会接受吗",
@@ -39,8 +40,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时12分]"
         },
         {
           "title": "泰军炮击柬埔寨境内赌场电诈基地",
@@ -48,11 +49,12 @@
           "source": "微博",
           "ranks": [
             20,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 04时12分]"
         },
         {
           "title": "外交部发言人就外交部亚洲事务特使将再次赴柬埔寨、泰国穿梭调停答记者问",
