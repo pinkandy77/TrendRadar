@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T06:11:07.736856+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2025-12-18T07:10:53.562738+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2232432",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时10分]"
         },
         {
           "title": "泰国为何对柬埔寨如此强硬",
@@ -28,11 +29,12 @@
             21,
             17,
             22,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时10分]"
         },
         {
           "title": "泰国开出停火条件 柬埔寨会接受吗",
@@ -43,8 +45,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时10分]"
         },
         {
           "title": "泰军炮击柬埔寨境内赌场电诈基地",
