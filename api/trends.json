@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T14:17:54.699358+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2025-12-17T15:15:37.138995+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
@@ -114,6 +114,19 @@
           "time_info": "[12时24分 ~ 13时14分]"
         },
         {
+          "title": "泰国为何对柬埔寨如此强硬",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%AF%B9%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A6%82%E6%AD%A4%E5%BC%BA%E7%A1%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时15分]"
+        },
+        {
           "title": "柬埔寨电诈中心或成泰军目标",
           "url": "https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E4%B8%AD%E5%BF%83%E6%88%96%E6%88%90%E6%B3%B0%E5%86%9B%E7%9B%AE%E6%A0%87",
           "source": "百度热搜",
@@ -124,18 +137,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时48分 ~ 12时24分]"
-        },
-        {
-          "title": "泰国为何对柬埔寨如此强硬",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%AF%B9%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A6%82%E6%AD%A4%E5%BC%BA%E7%A1%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时17分]"
         }
       ]
     }
