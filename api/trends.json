@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T10:31:26.546327+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2025-12-17T11:49:07.138590+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "学者：泰国要彻底打残柬埔寨军队",
@@ -88,6 +88,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时15分 ~ 07时10分]"
+        },
+        {
+          "title": "柬埔寨电诈中心或成泰军目标",
+          "url": "https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E4%B8%AD%E5%BF%83%E6%88%96%E6%88%90%E6%B3%B0%E5%86%9B%E7%9B%AE%E6%A0%87",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
         }
       ]
     }
