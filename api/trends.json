@@ -1,126 +1,44 @@
 {
-  "generated_at": "2025-12-17T23:13:59.544602+08:00",
-  "total_titles_processed": 2203,
+  "generated_at": "2025-12-18T00:15:22.389040+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 18,
+      "match_count": 4,
       "titles": [
         {
-          "title": "学者：泰国要彻底打残柬埔寨军队",
-          "url": "https://www.toutiao.com/trending/7584354133264567814/",
-          "source": "今日头条",
+          "title": "泰国在柬埔寨阵地缴获中国制造的装备，外交部回应",
+          "url": "https://www.cls.cn/detail/2232432",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            4,
-            5,
-            7,
-            16,
-            22,
-            29
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 07时10分]"
-        },
-        {
-          "title": "柬埔寨",
-          "url": "https://s.weibo.com/weibo?q=%E6%9F%AC%E5%9F%94%E5%AF%A8&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 08时45分]"
-        },
-        {
-          "title": "泰国出动 F-16 空袭柬埔寨弹药库，此次冲突双方的装备实力对比如何？还有哪些「杀手锏」没投入战场？",
-          "url": "https://www.zhihu.com/question/1984216315544695537",
-          "source": "知乎",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 08时45分]"
-        },
-        {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 07时10分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "泰国为何对柬埔寨如此强硬",
           "url": "https://search.bilibili.com/all?keyword=%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%AF%B9%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A6%82%E6%AD%A4%E5%BC%BA%E7%A1%AC",
           "source": "bilibili 热搜",
           "ranks": [
-            19,
-            14,
-            10,
-            18,
-            24,
-            15,
-            25,
-            16,
-            30
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时14分 ~ 23时13分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
-          "title": "柬埔寨士兵猛烈开火",
-          "url": "https://www.douyin.com/hot/2337979",
-          "source": "抖音",
+          "title": "外交部发言人就外交部亚洲事务特使将再次赴柬埔寨、泰国穿梭调停答记者问",
+          "url": "https://wallstreetcn.com/livenews/3022506",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            11,
-            13
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时15分 ~ 07时10分]"
-        },
-        {
-          "title": "柬埔寨为何不接受泰方的停火条件",
-          "url": "https://www.toutiao.com/trending/7584407082753855027/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            14,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 07时10分]"
-        },
-        {
-          "title": "柬埔寨和泰国为什么“往死里打”",
-          "url": "https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%92%8C%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E2%80%9C%E5%BE%80%E6%AD%BB%E9%87%8C%E6%89%93%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            19,
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时16分 ~ 19时11分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "泰国开出停火条件 柬埔寨会接受吗",
@@ -130,113 +48,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时20分 ~ 23时13分]"
-        },
-        {
-          "title": "马来西亚总理安瓦尔12月17日表示，泰国和柬埔寨均已同意部署东盟观察员小组。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3022480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "泰国外交部：柬埔寨必须率先宣布停火",
-          "url": "https://www.toutiao.com/trending/7583625667222355987/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时20分 ~ 22时12分]"
-        },
-        {
-          "title": "泰国宣布禁止向柬埔寨运输石油及战略物资",
-          "url": "https://flash.jin10.com/detail/20251217121259766800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时14分]"
-        },
-        {
-          "title": "泰国宣布禁止向柬埔寨运输石油及战略物资",
-          "url": "https://wallstreetcn.com/livenews/3022123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时14分]"
-        },
-        {
-          "title": "柬埔寨电诈中心或成泰军目标",
-          "url": "https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E4%B8%AD%E5%BF%83%E6%88%96%E6%88%90%E6%B3%B0%E5%86%9B%E7%9B%AE%E6%A0%87",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 12时24分]"
-        },
-        {
-          "title": "泰国在柬埔寨阵地缴获中国制造的装备，外交部回应",
-          "url": "https://www.cls.cn/detail/2232432",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时12分 ~ 23时13分]"
-        },
-        {
-          "title": "外交部：中国与泰国、柬埔寨的正常防务合作与柬泰边境的冲突无关",
-          "url": "https://wallstreetcn.com/livenews/3022242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "泰国重申停火必要条件 柬埔寨暂无回应",
-          "url": "https://wallstreetcn.com/livenews/3022281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：已与泰国及柬埔寨外交部长通话。",
-          "url": "https://flash.jin10.com/detail/20251217183431558800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "00时15分"
         }
       ]
     }
