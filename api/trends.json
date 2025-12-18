@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T14:17:55.054589+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2025-12-18T15:15:15.295943+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
@@ -53,6 +53,19 @@
           "time_info": "[00时15分 ~ 07时10分]"
         },
         {
+          "title": "柬埔寨为何不派战斗机迎战泰国",
+          "url": "https://www.toutiao.com/trending/7585033492379995654/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 15时15分]"
+        },
+        {
           "title": "泰军炮击柬埔寨境内赌场电诈基地",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%86%9B%E7%82%AE%E5%87%BB%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A2%83%E5%86%85%E8%B5%8C%E5%9C%BA%E7%94%B5%E8%AF%88%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -74,7 +87,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -91,18 +104,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时44分 ~ 14时17分]"
-        },
-        {
-          "title": "柬埔寨为何不派战斗机迎战泰国",
-          "url": "https://www.toutiao.com/trending/7585033492379995654/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时17分]"
         },
         {
           "title": "柬埔寨内政部：截至17日下午6时，新一轮柬泰冲突中丧生的柬埔寨平民总数已达18人，受伤人数升至78人。",
