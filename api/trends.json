@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T22:14:23.807586+08:00",
-  "total_titles_processed": 2108,
+  "generated_at": "2025-12-18T23:13:17.657734+08:00",
+  "total_titles_processed": 2222,
   "failed_sources": [],
   "trends": [
     {
@@ -41,6 +41,18 @@
           "time_info": "[00时15分 ~ 14时17分]"
         },
         {
+          "title": "泰国总理回应轰炸柬埔寨赌场",
+          "url": "https://www.toutiao.com/trending/7584740343322017833/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时30分 ~ 23时13分]"
+        },
+        {
           "title": "泰国开出停火条件 柬埔寨会接受吗",
           "url": "https://www.toutiao.com/trending/7584689693174795782/",
           "source": "今日头条",
@@ -51,17 +63,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 07时10分]"
-        },
-        {
-          "title": "泰国总理回应轰炸柬埔寨赌场",
-          "url": "https://www.toutiao.com/trending/7584740343322017833/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时30分 ~ 22时14分]"
         },
         {
           "title": "柬埔寨为何不派战斗机迎战泰国",
@@ -109,6 +110,19 @@
           "time_info": "[10时44分 ~ 19时11分]"
         },
         {
+          "title": "泰方证实：成功轰炸柬埔寨电诈基地",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E6%96%B9%E8%AF%81%E5%AE%9E%EF%BC%9A%E6%88%90%E5%8A%9F%E8%BD%B0%E7%82%B8%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E5%9F%BA%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            26,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时30分 ~ 23时13分]"
+        },
+        {
           "title": "柬埔寨称泰国军队轰炸了边境附近的波贝赌场中心。",
           "url": "https://flash.jin10.com/detail/20251218134231689800",
           "source": "金十数据",
@@ -125,23 +139,12 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时20分 ~ 22时14分]"
-        },
-        {
-          "title": "泰方证实：成功轰炸柬埔寨电诈基地",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E6%96%B9%E8%AF%81%E5%AE%9E%EF%BC%9A%E6%88%90%E5%8A%9F%E8%BD%B0%E7%82%B8%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E5%9F%BA%E5%9C%B0",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时30分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[20时20分 ~ 23时13分]"
         },
         {
           "title": "柬埔寨内政部：截至17日下午6时，新一轮柬泰冲突中丧生的柬埔寨平民总数已达18人，受伤人数升至78人。",
