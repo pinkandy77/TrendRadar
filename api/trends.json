@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T13:14:32.108548+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2025-12-18T14:17:55.054589+08:00",
+  "total_titles_processed": 1273,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "泰国在柬埔寨阵地缴获中国制造的装备，外交部回应",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 13时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 14时17分]"
         },
         {
           "title": "泰国开出停火条件 柬埔寨会接受吗",
@@ -68,17 +68,41 @@
           "time_info": "[02时17分 ~ 06时11分]"
         },
         {
+          "title": "柬埔寨称泰国军队轰炸了边境附近的波贝赌场中心。",
+          "url": "https://flash.jin10.com/detail/20251218134231689800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
           "title": "泰军炮击柬埔寨电诈基地",
           "url": "https://www.douyin.com/hot/2339463",
           "source": "抖音",
           "ranks": [
             27,
             23,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 13时14分]"
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 14时17分]"
+        },
+        {
+          "title": "柬埔寨为何不派战斗机迎战泰国",
+          "url": "https://www.toutiao.com/trending/7585033492379995654/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时17分]"
         },
         {
           "title": "柬埔寨内政部：截至17日下午6时，新一轮柬泰冲突中丧生的柬埔寨平民总数已达18人，受伤人数升至78人。",
@@ -103,17 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时16分]"
-        },
-        {
-          "title": "柬埔寨为何不派战斗机迎战泰国",
-          "url": "https://www.toutiao.com/trending/7585033492379995654/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
         },
         {
           "title": "泰国重申停火必要条件 柬埔寨暂无回应",
