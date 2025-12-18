@@ -1,44 +1,58 @@
 {
-  "generated_at": "2025-12-19T00:15:32.862926+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-19T01:15:45.536664+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "泰国总理回应轰炸柬埔寨赌场",
           "url": "https://www.toutiao.com/trending/7584740343322017833/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时15分]"
         },
         {
           "title": "泰方证实：成功轰炸柬埔寨电诈基地",
           "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E6%96%B9%E8%AF%81%E5%AE%9E%EF%BC%9A%E6%88%90%E5%8A%9F%E8%BD%B0%E7%82%B8%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E5%9F%BA%E5%9C%B0",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时15分]"
         },
         {
           "title": "王毅分别同柬埔寨、泰国外长通电话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32204744",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时15分]"
+        },
+        {
+          "title": "王毅分别同柬埔寨、泰国外长通电话",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%88%86%E5%88%AB%E5%90%8C%E6%9F%AC%E5%9F%94%E5%AF%A8%E3%80%81%E6%B3%B0%E5%9B%BD%E5%A4%96%E9%95%BF%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "01时15分"
         }
       ]
     }
