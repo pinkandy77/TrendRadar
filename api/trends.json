@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T18:12:37.696616+08:00",
-  "total_titles_processed": 1700,
+  "generated_at": "2025-12-18T19:11:33.696330+08:00",
+  "total_titles_processed": 1801,
   "failed_sources": [],
   "trends": [
     {
@@ -83,6 +83,21 @@
           "time_info": "[02时17分 ~ 06时11分]"
         },
         {
+          "title": "泰军炮击柬埔寨电诈基地",
+          "url": "https://www.douyin.com/hot/2339463",
+          "source": "抖音",
+          "ranks": [
+            27,
+            23,
+            21,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 19时11分]"
+        },
+        {
           "title": "柬埔寨称泰国军队轰炸了边境附近的波贝赌场中心。",
           "url": "https://flash.jin10.com/detail/20251218134231689800",
           "source": "金十数据",
@@ -92,20 +107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
-        },
-        {
-          "title": "泰军炮击柬埔寨电诈基地",
-          "url": "https://www.douyin.com/hot/2339463",
-          "source": "抖音",
-          "ranks": [
-            27,
-            23,
-            21,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时44分 ~ 14时17分]"
         },
         {
           "title": "柬埔寨内政部：截至17日下午6时，新一轮柬泰冲突中丧生的柬埔寨平民总数已达18人，受伤人数升至78人。",
