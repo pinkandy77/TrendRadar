@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T11:50:20.548418+08:00",
-  "total_titles_processed": 1092,
+  "generated_at": "2025-12-18T12:25:19.843100+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "泰国在柬埔寨阵地缴获中国制造的装备，外交部回应",
@@ -33,11 +33,12 @@
             25,
             28,
             11,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 11时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 12时25分]"
         },
         {
           "title": "泰国开出停火条件 柬埔寨会接受吗",
@@ -67,6 +68,18 @@
           "time_info": "[02时17分 ~ 06时11分]"
         },
         {
+          "title": "泰军炮击柬埔寨电诈基地",
+          "url": "https://www.douyin.com/hot/2339463",
+          "source": "抖音",
+          "ranks": [
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 12时25分]"
+        },
+        {
           "title": "外交部发言人就外交部亚洲事务特使将再次赴柬埔寨、泰国穿梭调停答记者问",
           "url": "https://wallstreetcn.com/livenews/3022506",
           "source": "华尔街见闻-快讯",
@@ -79,16 +92,15 @@
           "time_info": "[00时15分 ~ 01时16分]"
         },
         {
-          "title": "泰军炮击柬埔寨电诈基地",
-          "url": "https://www.douyin.com/hot/2339463",
-          "source": "抖音",
+          "title": "柬埔寨内政部：截至17日下午6时，新一轮柬泰冲突中丧生的柬埔寨平民总数已达18人，受伤人数升至78人。",
+          "url": "https://flash.jin10.com/detail/20251218120217076800",
+          "source": "金十数据",
           "ranks": [
-            27,
-            23
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 11时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "泰国重申停火必要条件 柬埔寨暂无回应",
