@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T06:11:00.935186+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2025-12-19T07:11:29.912937+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             2,
             4,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "王毅分别同柬埔寨、泰国外长通电话",
@@ -30,11 +31,12 @@
             13,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "泰方证实：成功轰炸柬埔寨电诈基地",
@@ -50,8 +52,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "王毅分别同柬埔寨、泰国外长通电话",
