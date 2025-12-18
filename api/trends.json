@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T19:11:33.696330+08:00",
-  "total_titles_processed": 1801,
+  "generated_at": "2025-12-18T20:20:50.932170+08:00",
+  "total_titles_processed": 1909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "泰国在柬埔寨阵地缴获中国制造的装备，外交部回应",
@@ -131,6 +131,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时16分]"
+        },
+        {
+          "title": "王毅分别同柬埔寨、泰国外长通电话",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%88%86%E5%88%AB%E5%90%8C%E6%9F%AC%E5%9F%94%E5%AF%A8%E3%80%81%E6%B3%B0%E5%9B%BD%E5%A4%96%E9%95%BF%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "王毅分别同柬埔寨、泰国外长通电话",
+          "url": "https://wallstreetcn.com/livenews/3023102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "泰国重申停火必要条件 柬埔寨暂无回应",
