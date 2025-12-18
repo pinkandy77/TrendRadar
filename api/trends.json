@@ -1,196 +1,44 @@
 {
-  "generated_at": "2025-12-18T23:13:17.657734+08:00",
-  "total_titles_processed": 2222,
+  "generated_at": "2025-12-19T00:15:32.862926+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 14,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "泰国在柬埔寨阵地缴获中国制造的装备，外交部回应",
-          "url": "https://www.cls.cn/detail/2232432",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 08时45分]"
-        },
-        {
-          "title": "泰国为何对柬埔寨如此强硬",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B3%B0%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%AF%B9%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A6%82%E6%AD%A4%E5%BC%BA%E7%A1%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            13,
-            21,
-            17,
-            22,
-            25,
-            28,
-            11,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 14时17分]"
-        },
         {
           "title": "泰国总理回应轰炸柬埔寨赌场",
           "url": "https://www.toutiao.com/trending/7584740343322017833/",
           "source": "今日头条",
           "ranks": [
-            1,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时30分 ~ 23时13分]"
-        },
-        {
-          "title": "泰国开出停火条件 柬埔寨会接受吗",
-          "url": "https://www.toutiao.com/trending/7584689693174795782/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时10分]"
-        },
-        {
-          "title": "柬埔寨为何不派战斗机迎战泰国",
-          "url": "https://www.toutiao.com/trending/7585033492379995654/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            2,
-            5,
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时14分 ~ 17时17分]"
-        },
-        {
-          "title": "泰军炮击柬埔寨境内赌场电诈基地",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%86%9B%E7%82%AE%E5%87%BB%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A2%83%E5%86%85%E8%B5%8C%E5%9C%BA%E7%94%B5%E8%AF%88%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            15,
-            18,
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时17分 ~ 06时11分]"
-        },
-        {
-          "title": "泰军炮击柬埔寨电诈基地",
-          "url": "https://www.douyin.com/hot/2339463",
-          "source": "抖音",
-          "ranks": [
-            27,
-            23,
-            21,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 19时11分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "泰方证实：成功轰炸柬埔寨电诈基地",
           "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E6%96%B9%E8%AF%81%E5%AE%9E%EF%BC%9A%E6%88%90%E5%8A%9F%E8%BD%B0%E7%82%B8%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E5%9F%BA%E5%9C%B0",
           "source": "百度热搜",
           "ranks": [
-            30,
-            26,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时30分 ~ 23时13分]"
-        },
-        {
-          "title": "柬埔寨称泰国军队轰炸了边境附近的波贝赌场中心。",
-          "url": "https://flash.jin10.com/detail/20251218134231689800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时17分"
+          "time_info": "00时15分"
         },
         {
           "title": "王毅分别同柬埔寨、泰国外长通电话",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%88%86%E5%88%AB%E5%90%8C%E6%9F%AC%E5%9F%94%E5%AF%A8%E3%80%81%E6%B3%B0%E5%9B%BD%E5%A4%96%E9%95%BF%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32204744",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时20分 ~ 23时13分]"
-        },
-        {
-          "title": "柬埔寨内政部：截至17日下午6时，新一轮柬泰冲突中丧生的柬埔寨平民总数已达18人，受伤人数升至78人。",
-          "url": "https://flash.jin10.com/detail/20251218120217076800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时14分]"
-        },
-        {
-          "title": "外交部发言人就外交部亚洲事务特使将再次赴柬埔寨、泰国穿梭调停答记者问",
-          "url": "https://wallstreetcn.com/livenews/3022506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时16分]"
-        },
-        {
-          "title": "王毅分别同柬埔寨、泰国外长通电话",
-          "url": "https://wallstreetcn.com/livenews/3023102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "泰国重申停火必要条件 柬埔寨暂无回应",
-          "url": "https://wallstreetcn.com/livenews/3022747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "00时15分"
         }
       ]
     }
