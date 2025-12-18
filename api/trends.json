@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T07:10:53.562738+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2025-12-18T08:45:49.929761+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 08时45分]"
         },
         {
           "title": "泰国为何对柬埔寨如此强硬",
