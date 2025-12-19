@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T10:48:04.587187+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2025-12-19T11:53:10.370255+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "泰国总理回应轰炸柬埔寨赌场",
@@ -35,8 +35,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 10时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 11时53分]"
         },
         {
           "title": "泰方证实：成功轰炸柬埔寨电诈基地",
@@ -63,8 +63,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 11时53分]"
+        },
+        {
+          "title": "泰总理回应轰炸柬埔寨赌场",
+          "url": "https://www.douyin.com/hot/2340344",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
+          "time_info": "[11时52分 ~ 11时53分]"
         },
         {
           "title": "王毅分别同柬埔寨、泰国外长通电话",
