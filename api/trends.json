@@ -1,37 +1,7 @@
 {
-  "generated_at": "2025-12-20T23:10:28.328217+08:00",
-  "total_titles_processed": 1606,
+  "generated_at": "2025-12-21T00:12:14.098083+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国国务卿鲁比奥：（就泰国与柬埔寨问题）希望在现在到周一之间，能让各方重返谈判桌。",
-          "url": "https://flash.jin10.com/detail/20251220020725630800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 03时10分]"
-        },
-        {
-          "title": "如何看待柬埔寨难民称泰军彻夜播放恐怖鬼叫声？这种奇特心理战术能起到什么作用？",
-          "url": "https://www.zhihu.com/question/1985095278848598033",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时16分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
