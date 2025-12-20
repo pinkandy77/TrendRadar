@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T12:17:34.335049+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2025-12-20T13:11:35.258895+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国国务卿鲁比奥：（就泰国与柬埔寨问题）希望在现在到周一之间，能让各方重返谈判桌。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时16分 ~ 03时10分]"
+        },
+        {
+          "title": "如何看待柬埔寨难民称泰军彻夜播放恐怖鬼叫声？这种奇特心理战术能起到什么作用？",
+          "url": "https://www.zhihu.com/question/1985095278848598033",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         }
       ]
     }
