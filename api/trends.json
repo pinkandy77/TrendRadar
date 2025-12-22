@@ -1,26 +1,12 @@
 {
-  "generated_at": "2025-12-22T23:12:06.877625+08:00",
-  "total_titles_processed": 1927,
+  "generated_at": "2025-12-23T00:14:16.270576+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "泰军称控制柬埔寨一座赌场大楼",
-          "url": "https://www.toutiao.com/trending/7585618689890959366/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 15时16分]"
-        },
         {
           "title": "泰国外长：柬埔寨或用“电诈园区”作控制中心",
           "url": "https://news.ifeng.com/c/8pIOrzM2BoV",
@@ -29,52 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时20分 ~ 23时12分]"
-        },
-        {
-          "title": "泰国外交部长：美国未参与，此事关乎泰国和柬埔寨自行解决问题。",
-          "url": "https://flash.jin10.com/detail/20251222155254877800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "柬埔寨内政部：柬泰冲突已致20名柬平民死亡",
-          "url": "https://flash.jin10.com/detail/20251222124824322800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "马来西亚外交部长敦促泰国和柬埔寨全面有效落实停火协议与和平协定。",
-          "url": "https://flash.jin10.com/detail/20251222124125487800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "泰国外交部长：泰国和柬埔寨官员将于12月24日会晤。",
-          "url": "https://flash.jin10.com/detail/20251222154258363800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 00时14分]"
         }
       ]
     }
