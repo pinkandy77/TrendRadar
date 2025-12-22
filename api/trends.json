@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T13:16:59.515568+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2025-12-22T14:19:16.271706+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时19分]"
         },
         {
           "title": "柬埔寨内政部：柬泰冲突已致20名柬平民死亡",
@@ -26,7 +27,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -37,7 +38,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         }
