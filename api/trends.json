@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T19:10:41.578987+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2025-12-22T20:21:10.241744+08:00",
+  "total_titles_processed": 1649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "泰军称控制柬埔寨一座赌场大楼",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时01分 ~ 15时16分]"
+        },
+        {
+          "title": "泰国外长：柬埔寨或用“电诈园区”作控制中心",
+          "url": "https://news.ifeng.com/c/8pIOrzM2BoV",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "泰国外交部长：美国未参与，此事关乎泰国和柬埔寨自行解决问题。",
