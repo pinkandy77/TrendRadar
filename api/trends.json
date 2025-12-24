@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-25T05:10:17.613511+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2025-12-25T06:10:58.455955+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
       "match_count": 3,
       "titles": [
+        {
+          "title": "泰国国防部：泰国和柬埔寨拥有双边冲突的解决机制",
+          "url": "https://flash.jin10.com/detail/20251225024128433800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时12分 ~ 06时10分]"
+        },
         {
           "title": "柬埔寨内政部：柬泰冲突已致30名柬平民死亡",
           "url": "https://flash.jin10.com/detail/20251224234805191800",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 01时10分]"
-        },
-        {
-          "title": "泰国国防部：泰国和柬埔寨拥有双边冲突的解决机制",
-          "url": "https://flash.jin10.com/detail/20251225024128433800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 05时10分]"
         },
         {
           "title": "柬埔寨称泰军炮火波及野生动物",
