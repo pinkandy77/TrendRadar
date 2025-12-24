@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T02:16:37.591197+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2025-12-25T03:09:19.518372+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "柬埔寨内政部：柬泰冲突已致30名柬平民死亡",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 01时10分]"
+        },
+        {
+          "title": "柬埔寨称泰军炮火波及野生动物",
+          "url": "https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%A7%B0%E6%B3%B0%E5%86%9B%E7%82%AE%E7%81%AB%E6%B3%A2%E5%8F%8A%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         }
       ]
     }
