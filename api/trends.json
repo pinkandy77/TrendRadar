@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T08:49:38.032055+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2025-12-26T10:48:04.643242+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 08时49分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 10时48分]"
         },
         {
           "title": "美国国务卿鲁比奥重申，美国已准备好为促进柬埔寨和泰国之间的和平与稳定而进行的讨论提供便利。",
@@ -50,11 +50,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E8%B0%88%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%81%A3%E8%BF%94%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF",
           "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 10时48分]"
         }
       ]
     }
