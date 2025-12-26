@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T16:16:02.006823+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2025-12-26T17:13:34.329011+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
@@ -48,6 +48,20 @@
           "time_info": "[05时10分 ~ 07时11分]"
         },
         {
+          "title": "柬埔寨一士兵「富贵险中求」，在前线直播带货防晒霜，如何看待这一行为？这场战争对他们意味着什么？",
+          "url": "https://www.zhihu.com/question/1987470779722522743",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时17分 ~ 17时13分]"
+        },
+        {
           "title": "汪文斌谈柬埔寨遣返电诈嫌犯",
           "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E6%96%87%E6%96%8C%E8%B0%88%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%81%A3%E8%BF%94%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF",
           "source": "百度热搜",
@@ -61,19 +75,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时49分 ~ 13时14分]"
-        },
-        {
-          "title": "柬埔寨一士兵「富贵险中求」，在前线直播带货防晒霜，如何看待这一行为？这场战争对他们意味着什么？",
-          "url": "https://www.zhihu.com/question/1987470779722522743",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时17分 ~ 16时16分]"
         },
         {
           "title": "携程回应柬埔寨合作争议",
@@ -93,7 +94,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -104,7 +105,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         }
