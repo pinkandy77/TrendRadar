@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T14:16:44.915905+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2025-12-27T15:11:40.962096+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             3,
             15,
             19,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 14时16分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 15时11分]"
         },
         {
           "title": "柬埔寨说柬泰同意27日中午开始停火",
@@ -28,11 +29,12 @@
           "ranks": [
             1,
             5,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 15时11分]"
         },
         {
           "title": "泰国与柬埔寨就停火问题签署联合声明",
@@ -42,11 +44,12 @@
             3,
             8,
             12,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时50分 ~ 14时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时50分 ~ 15时11分]"
         },
         {
           "title": "泰柬联合声明：如果停火持续72小时，泰国将遣返18名柬埔寨士兵。",
@@ -55,23 +58,12 @@
           "ranks": [
             2,
             6,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 14时16分]"
-        },
-        {
-          "title": "柬埔寨说柬泰同意27日中午开始停火",
-          "url": "https://wallstreetcn.com/livenews/3027529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 15时11分]"
         },
         {
           "title": "柬埔寨国防部声明：泰国与柬埔寨签署停火协议。",
@@ -80,11 +72,25 @@
           "ranks": [
             5,
             9,
-            19
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 15时11分]"
+        },
+        {
+          "title": "柬埔寨说柬泰同意27日中午开始停火",
+          "url": "https://wallstreetcn.com/livenews/3027529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时24分 ~ 14时16分]"
+          "time_info": "[13时13分 ~ 15时11分]"
         },
         {
           "title": "柬埔寨称与泰国就柬泰边界总委员会会议联合声明草案达成共识",
@@ -107,7 +113,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         }
