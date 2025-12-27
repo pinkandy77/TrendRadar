@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T00:12:19.263188+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-28T01:09:06.377374+08:00",
+  "total_titles_processed": 346,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/1988213634711646634",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 00时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 01时09分]"
         },
         {
           "title": "王毅将同柬埔寨和泰国外长在云南会晤",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%B0%86%E5%90%8C%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%92%8C%E6%B3%B0%E5%9B%BD%E5%A4%96%E9%95%BF%E5%9C%A8%E4%BA%91%E5%8D%97%E4%BC%9A%E6%99%A4",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 00时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 01时09分]"
         },
         {
           "title": "王毅将同柬埔寨和泰国外长在云南举行会晤",
@@ -36,9 +38,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时09分]"
         },
         {
           "title": "王毅将同柬埔寨和泰国外长在云南举行会晤",
@@ -47,9 +49,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时09分]"
         }
       ]
     }
