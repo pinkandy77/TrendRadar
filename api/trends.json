@@ -1,22 +1,35 @@
 {
-  "generated_at": "2025-12-27T11:50:52.991637+08:00",
-  "total_titles_processed": 834,
-  "failed_sources": [],
+  "generated_at": "2025-12-27T12:24:29.105920+08:00",
+  "total_titles_processed": 874,
+  "failed_sources": [
+    "ifeng"
+  ],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
-          "title": "泰国与柬埔寨就停火问题签署联合声明",
-          "url": "https://flash.jin10.com/detail/20251227111239558800",
+          "title": "柬埔寨说柬泰同意27日中午开始停火",
+          "url": "https://flash.jin10.com/detail/20251227115550762800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时50分"
+          "time_info": "12时24分"
+        },
+        {
+          "title": "泰柬联合声明：如果停火持续72小时，泰国将遣返18名柬埔寨士兵。",
+          "url": "https://flash.jin10.com/detail/20251227115326428800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "柬埔寨称与泰国就柬泰边界总委员会会议联合声明草案达成共识",
@@ -27,8 +40,31 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 12时24分]"
+        },
+        {
+          "title": "柬埔寨国防部声明：泰国与柬埔寨签署停火协议。",
+          "url": "https://flash.jin10.com/detail/20251227114058054800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "泰国与柬埔寨就停火问题签署联合声明",
+          "url": "https://flash.jin10.com/detail/20251227111239558800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时45分 ~ 11时50分]"
+          "time_info": "[11时50分 ~ 12时24分]"
         },
         {
           "title": "柬埔寨称与泰国就柬泰边界总委员会会议联合声明草案达成共识",
@@ -36,11 +72,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 11时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 12时24分]"
         }
       ]
     }
