@@ -1,7 +1,9 @@
 {
-  "generated_at": "2025-12-27T19:09:03.495453+08:00",
-  "total_titles_processed": 1290,
-  "failed_sources": [],
+  "generated_at": "2025-12-27T20:19:12.319119+08:00",
+  "total_titles_processed": 1353,
+  "failed_sources": [
+    "toutiao"
+  ],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
