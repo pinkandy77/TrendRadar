@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T02:15:05.425789+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2025-12-28T03:08:37.060597+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 02时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 03时08分]"
         },
         {
           "title": "王毅将同柬埔寨和泰国外长在云南会晤",
@@ -26,11 +26,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 02时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 03时08分]"
         },
         {
           "title": "王毅将同柬埔寨和泰国外长在云南举行会晤",
@@ -38,11 +39,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时08分]"
         },
         {
           "title": "王毅将同柬埔寨和泰国外长在云南举行会晤",
@@ -52,8 +54,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时08分]"
         }
       ]
     }
