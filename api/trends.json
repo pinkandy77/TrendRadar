@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T04:12:23.127117+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2025-12-29T05:10:24.322626+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 05时10分]"
         },
         {
           "title": "中国援柬埔寨物资运抵金边",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 05时10分]"
         },
         {
           "title": "美国总统特朗普：泰国与柬埔寨之间的冲突将暂停。 泰国与柬埔寨将回到“和平条约协议”。",
@@ -36,11 +36,12 @@
           "ranks": [
             3,
             7,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时10分]"
         },
         {
           "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆，祝贺柬泰两国军方达成停火协议",
@@ -49,11 +50,12 @@
           "ranks": [
             18,
             22,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时10分]"
         },
         {
           "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆",
@@ -73,11 +75,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 05时10分]"
         },
         {
           "title": "柬埔寨为何延迟十多天停火",
