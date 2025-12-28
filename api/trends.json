@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T07:11:06.275410+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2025-12-28T08:57:03.825868+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时11分 ~ 07时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 08时57分]"
         },
         {
           "title": "王毅将同柬埔寨和泰国外长在云南会晤",
@@ -42,22 +43,24 @@
           "ranks": [
             9,
             10,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 08时57分]"
         },
         {
           "title": "王毅将同柬埔寨和泰国外长在云南举行会晤",
           "url": "https://flash.jin10.com/detail/20251227204708263800",
           "source": "金十数据",
           "ranks": [
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 08时57分]"
         }
       ]
     }
