@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T00:12:31.279153+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-29T01:09:43.790685+08:00",
+  "total_titles_processed": 347,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时09分]"
         },
         {
           "title": "中国援柬埔寨物资运抵金边",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时09分]"
         },
         {
           "title": "美国总统特朗普：泰国与柬埔寨之间的冲突将暂停。 泰国与柬埔寨将回到“和平条约协议”。",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时09分]"
         },
         {
           "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆，祝贺柬泰两国军方达成停火协议",
@@ -48,19 +48,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "柬埔寨为何延迟十多天停火",
-          "url": "https://www.toutiao.com/trending/7588891113503591977/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时09分]"
         },
         {
           "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆",
@@ -68,6 +57,17 @@
           "source": "金十数据",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时09分]"
+        },
+        {
+          "title": "柬埔寨为何延迟十多天停火",
+          "url": "https://www.toutiao.com/trending/7588891113503591977/",
+          "source": "今日头条",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
