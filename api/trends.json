@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T19:09:34.877614+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2025-12-28T20:18:59.879448+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "泰国与柬埔寨就停火问题签署联合声明，双方会彻底停火吗？",
@@ -65,6 +65,54 @@
           "time_info": "[00时12分 ~ 08时57分]"
         },
         {
+          "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆，祝贺柬泰两国军方达成停火协议",
+          "url": "https://wallstreetcn.com/livenews/3027651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆",
+          "url": "https://flash.jin10.com/detail/20251228194835429800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "“柬埔寨政府和人民感谢中方”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%94%BF%E5%BA%9C%E5%92%8C%E4%BA%BA%E6%B0%91%E6%84%9F%E8%B0%A2%E4%B8%AD%E6%96%B9%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            18,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时10分 ~ 20时18分]"
+        },
+        {
+          "title": "中国援柬埔寨紧急人道主义物资运抵",
+          "url": "https://www.toutiao.com/trending/7588728400999792683/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时10分 ~ 20时18分]"
+        },
+        {
           "title": "泰柬签署停火协议 柬埔寨让步了吗",
           "url": "https://www.toutiao.com/trending/7588799569241050633/",
           "source": "今日头条",
@@ -76,30 +124,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时11分 ~ 19时09分]"
-        },
-        {
-          "title": "中国援柬埔寨紧急人道主义物资运抵",
-          "url": "https://www.toutiao.com/trending/7588728400999792683/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 19时09分]"
-        },
-        {
-          "title": "“柬埔寨政府和人民感谢中方”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%94%BF%E5%BA%9C%E5%92%8C%E4%BA%BA%E6%B0%91%E6%84%9F%E8%B0%A2%E4%B8%AD%E6%96%B9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 19时09分]"
         },
         {
           "title": "首批中国援柬埔寨紧急人道主义物资运抵金边",
