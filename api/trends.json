@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T14:20:19.550424+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2025-12-29T15:18:19.446348+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,25 @@
             2,
             20,
             22,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时12分 ~ 14时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时12分 ~ 15时18分]"
+        },
+        {
+          "title": "国女流落柬埔寨,境外诈骗太吓人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348494&amp;topic_name=%E5%9B%BD%E5%A5%B3%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E5%A2%83%E5%A4%96%E8%AF%88%E9%AA%97%E5%A4%AA%E5%90%93%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 15时18分]"
         },
         {
           "title": "美国总统特朗普：泰国与柬埔寨之间的冲突将暂停。 泰国与柬埔寨将回到“和平条约协议”。",
@@ -47,18 +61,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时12分 ~ 07时10分]"
-        },
-        {
-          "title": "国女流落柬埔寨,境外诈骗太吓人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348494&amp;topic_name=%E5%9B%BD%E5%A5%B3%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E5%A2%83%E5%A4%96%E8%AF%88%E9%AA%97%E5%A4%AA%E5%90%93%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时01分 ~ 14时20分]"
         },
         {
           "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆，祝贺柬泰两国军方达成停火协议",
@@ -132,9 +134,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 15时18分]"
         },
         {
           "title": "中国援柬埔寨物资运抵金边",
