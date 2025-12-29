@@ -1,12 +1,28 @@
 {
-  "generated_at": "2025-12-29T17:20:11.015357+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2025-12-29T18:13:56.215875+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
       "match_count": 12,
       "titles": [
+        {
+          "title": "国女流落柬埔寨,境外诈骗太吓人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348494&amp;topic_name=%E5%9B%BD%E5%A5%B3%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E5%A2%83%E5%A4%96%E8%AF%88%E9%AA%97%E5%A4%AA%E5%90%93%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时01分 ~ 18时13分]"
+        },
         {
           "title": "王毅会见柬埔寨副首相：希望加大对在柬中国公民保护",
           "url": "https://news.ifeng.com/c/8pSVDYFTMdI",
@@ -17,21 +33,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时12分 ~ 05时10分]"
-        },
-        {
-          "title": "国女流落柬埔寨,境外诈骗太吓人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348494&amp;topic_name=%E5%9B%BD%E5%A5%B3%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E5%A2%83%E5%A4%96%E8%AF%88%E9%AA%97%E5%A4%AA%E5%90%93%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时01分 ~ 17时20分]"
         },
         {
           "title": "中国援柬埔寨物资运抵金边",
@@ -148,7 +149,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
