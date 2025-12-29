@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T05:10:06.492156+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2025-12-30T06:11:00.050133+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 05时10分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 06时11分]"
+        },
+        {
+          "title": "柬埔寨否认柬无人机侵犯泰国",
+          "url": "https://wallstreetcn.com/livenews/3028313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时11分]"
         },
         {
           "title": "柬埔寨否认柬无人机侵犯泰国",
@@ -25,18 +38,6 @@
           "ranks": [
             2,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
-        },
-        {
-          "title": "柬埔寨否认柬无人机侵犯泰国",
-          "url": "https://wallstreetcn.com/livenews/3028313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
