@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-31T11:55:53.412162+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2025-12-31T12:31:00.110567+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "柬埔寨国防部发言人马莉淑洁达12月31日表示，泰国已释放自7月底以来被其俘虏的18名柬埔寨士兵。",
+          "url": "https://flash.jin10.com/detail/20251231121931768800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
