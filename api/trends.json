@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T06:11:02.672772+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-01-05T07:10:46.532259+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             9,
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时10分]"
         },
         {
           "title": "流落柬埔寨街头中国女子已被找到",
