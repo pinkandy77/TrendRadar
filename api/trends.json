@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T21:24:06.821867+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2026-01-04T22:10:15.521522+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "儿子被卖柬埔寨,单亲妈孤身救人",
@@ -32,11 +32,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%E6%B5%81%E6%B5%AA",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 21时24分]"
+          "appearance_count": 4,
+          "time_info": "[21时23分 ~ 22时10分]"
         },
         {
           "title": "在柬埔寨流浪女网红父亲发声",
@@ -72,6 +73,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时57分 ~ 11时05分]"
+        },
+        {
+          "title": "福建20岁女网红在柬埔寨街头流浪",
+          "url": "https://www.douyin.com/hot/2357004",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时09分 ~ 22时10分]"
+        },
+        {
+          "title": "中使馆回应中国女子流落柬埔寨",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时09分 ~ 22时10分]"
         }
       ]
     }
