@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T22:10:15.521522+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2026-01-04T23:10:30.627273+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "儿子被卖柬埔寨,单亲妈孤身救人",
@@ -95,6 +95,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[22时09分 ~ 22时10分]"
+        },
+        {
+          "title": "流落柬埔寨街头中国女子已被找到",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E6%89%BE%E5%88%B0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         }
       ]
     }
