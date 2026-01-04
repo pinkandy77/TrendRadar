@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T11:05:25.426783+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-01-04T12:41:06.721813+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             13,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 11时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时12分 ~ 12时41分]"
         },
         {
           "title": "网传中国网红流落柬埔寨街头",
