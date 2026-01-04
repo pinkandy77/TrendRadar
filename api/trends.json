@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T16:15:29.224688+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-01-04T17:11:27.619092+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             19,
             20,
             22,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时12分 ~ 16时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时12分 ~ 17时11分]"
         },
         {
           "title": "在柬埔寨流浪女网红父亲发声",
@@ -31,7 +32,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
