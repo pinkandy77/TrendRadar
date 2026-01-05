@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T13:29:35.734097+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-01-05T14:23:38.365245+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时12分 ~ 13时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时12分 ~ 14时23分]"
         },
         {
           "title": "流落柬埔寨街头中国女子已被找到",
@@ -51,11 +51,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BD%BB%E4%BF%A1%E9%AB%98%E8%96%AA%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8+%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 14时23分]"
         }
       ]
     }
