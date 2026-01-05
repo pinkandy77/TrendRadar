@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T06:12:10.489134+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-01-06T07:11:03.056501+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时11分]"
+        },
+        {
+          "title": "23岁中国女导演在柬埔寨坠楼身亡",
+          "url": "https://www.toutiao.com/trending/7591807301363843098/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时14分 ~ 07时11分]"
         },
         {
           "title": "23岁中国女导演在柬埔寨坠楼身亡",
@@ -30,19 +41,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时12分]"
-        },
-        {
-          "title": "23岁中国女导演在柬埔寨坠楼身亡",
-          "url": "https://www.toutiao.com/trending/7591807301363843098/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时11分]"
         }
       ]
     }
