@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T22:15:04.170648+08:00",
-  "total_titles_processed": 1872,
+  "generated_at": "2026-01-05T23:14:34.456169+08:00",
+  "total_titles_processed": 1966,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
           "url": "https://www.baidu.com/s?wd=23%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AF%BC%E6%BC%94%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时15分]"
+          "appearance_count": 3,
+          "time_info": "[22时14分 ~ 23时14分]"
         },
         {
           "title": "柬埔寨再次提议举行柬泰联合边界委员会特别会议",
@@ -79,7 +80,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         }
