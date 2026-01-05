@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T05:11:43.226376+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-01-06T06:12:10.489134+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 06时12分]"
         },
         {
           "title": "23岁中国女导演在柬埔寨坠楼身亡",
@@ -30,8 +30,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 06时12分]"
         },
         {
           "title": "23岁中国女导演在柬埔寨坠楼身亡",
@@ -41,8 +41,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 06时12分]"
         }
       ]
     }
