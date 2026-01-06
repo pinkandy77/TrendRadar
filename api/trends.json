@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T17:17:33.958299+08:00",
-  "total_titles_processed": 1620,
+  "generated_at": "2026-01-06T18:12:51.474439+08:00",
+  "total_titles_processed": 1710,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,17 @@
           "time_info": "[00时15分 ~ 08时51分]"
         },
         {
+          "title": "福建籍女子流落柬埔寨街头，毒品检测呈阳性",
+          "url": "https://news.ifeng.com/c/8pgpPC5ba6K",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时18分 ~ 18时12分]"
+        },
+        {
           "title": "女网红流落柬埔寨,毒检呈阳性",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348751&amp;topic_name=%E5%A5%B3%E7%BD%91%E7%BA%A2%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E6%AF%92%E6%A3%80%E5%91%88%E9%98%B3%E6%80%A7",
           "source": "贴吧",
@@ -55,17 +66,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
-        },
-        {
-          "title": "福建籍女子流落柬埔寨街头，毒品检测呈阳性",
-          "url": "https://news.ifeng.com/c/8pgpPC5ba6K",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时18分 ~ 17时17分]"
         },
         {
           "title": "流落柬埔寨街头女子毒品检测呈阳性",
