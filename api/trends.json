@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T16:17:04.953151+08:00",
-  "total_titles_processed": 1514,
+  "generated_at": "2026-01-06T17:17:33.958299+08:00",
+  "total_titles_processed": 1620,
   "failed_sources": [],
   "trends": [
     {
@@ -57,6 +57,17 @@
           "time_info": "14时18分"
         },
         {
+          "title": "福建籍女子流落柬埔寨街头，毒品检测呈阳性",
+          "url": "https://news.ifeng.com/c/8pgpPC5ba6K",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时18分 ~ 17时17分]"
+        },
+        {
           "title": "流落柬埔寨街头女子毒品检测呈阳性",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%E5%A5%B3%E5%AD%90%E6%AF%92%E5%93%81%E6%A3%80%E6%B5%8B%E5%91%88%E9%98%B3%E6%80%A7%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -67,17 +78,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时16分 ~ 14时18分]"
-        },
-        {
-          "title": "福建籍女子流落柬埔寨街头，毒品检测呈阳性",
-          "url": "https://news.ifeng.com/c/8pgpPC5ba6K",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时18分 ~ 16时17分]"
         },
         {
           "title": "市场消息：泰国据悉考虑应对柬埔寨违反停火协议的措施。",
