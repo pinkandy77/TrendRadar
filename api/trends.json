@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T13:17:00.748354+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-01-06T14:18:22.408435+08:00",
+  "total_titles_processed": 1310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "23岁女导演柬埔寨坠楼身亡",
@@ -46,6 +46,29 @@
           "time_info": "[00时15分 ~ 08时51分]"
         },
         {
+          "title": "女网红流落柬埔寨,毒检呈阳性",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348751&amp;topic_name=%E5%A5%B3%E7%BD%91%E7%BA%A2%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E6%AF%92%E6%A3%80%E5%91%88%E9%98%B3%E6%80%A7",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "流落柬埔寨街头女子毒品检测呈阳性",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%E5%A5%B3%E5%AD%90%E6%AF%92%E5%93%81%E6%A3%80%E6%B5%8B%E5%91%88%E9%98%B3%E6%80%A7%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 14时18分]"
+        },
+        {
           "title": "市场消息：泰国据悉考虑应对柬埔寨违反停火协议的措施。",
           "url": "https://flash.jin10.com/detail/20260106113557539800",
           "source": "金十数据",
@@ -70,15 +93,15 @@
           "time_info": "[12时33分 ~ 13时17分]"
         },
         {
-          "title": "流落柬埔寨街头女子毒品检测呈阳性",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%E5%A5%B3%E5%AD%90%E6%AF%92%E5%93%81%E6%A3%80%E6%B5%8B%E5%91%88%E9%98%B3%E6%80%A7%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "福建籍女子流落柬埔寨街头，毒品检测呈阳性",
+          "url": "https://news.ifeng.com/c/8pgpPC5ba6K",
+          "source": "凤凰网",
           "ranks": [
-            16
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "中国女导演柬埔寨坠亡前被人带上楼",
@@ -101,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "23岁女导演柬埔寨坠楼身亡",
+          "url": "https://www.douyin.com/hot/2358482",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "同学回应23岁中国女导演柬埔寨坠亡",
