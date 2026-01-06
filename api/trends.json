@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T08:51:39.582350+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-01-06T10:52:20.064571+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "23岁女导演柬埔寨坠楼身亡",
@@ -46,13 +46,24 @@
           "time_info": "[00时15分 ~ 08时51分]"
         },
         {
+          "title": "中国女导演柬埔寨坠亡前被人带上楼",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AF%BC%E6%BC%94%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9D%A0%E4%BA%A1%E5%89%8D%E8%A2%AB%E4%BA%BA%E5%B8%A6%E4%B8%8A%E6%A5%BC%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
           "title": "同学回应23岁中国女导演柬埔寨坠亡",
           "url": "https://www.baidu.com/s?wd=%E5%90%8C%E5%AD%A6%E5%9B%9E%E5%BA%9423%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AF%BC%E6%BC%94%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9D%A0%E4%BA%A1",
           "source": "百度热搜",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         }
