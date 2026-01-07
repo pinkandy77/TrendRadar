@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T11:58:18.258660+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-01-07T12:35:49.240348+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "母亲借钱买机票接回流落柬埔寨女子",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
+          "title": "柬埔寨参议院主席洪森：致力于全面执行与泰国停火协议",
+          "url": "https://flash.jin10.com/detail/20260107114848148800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         }
       ]
     }
