@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-07T07:11:37.109260+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-01-07T08:52:08.413317+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "母亲借钱买机票接回流落柬埔寨女子",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%80%9F%E9%92%B1%E4%B9%B0%E6%9C%BA%E7%A5%A8%E6%8E%A5%E5%9B%9E%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A5%B3%E5%AD%90%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
