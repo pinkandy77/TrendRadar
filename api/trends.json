@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T22:16:11.612958+08:00",
-  "total_titles_processed": 2121,
+  "generated_at": "2026-01-08T23:16:11.108732+08:00",
+  "total_titles_processed": 2227,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,13 @@
           "source": "今日头条",
           "ranks": [
             6,
-            9
+            9,
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时12分 ~ 22时16分]"
+          "appearance_count": 8,
+          "time_info": "[19时12分 ~ 23时16分]"
         },
         {
           "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
@@ -26,11 +28,12 @@
           "ranks": [
             20,
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时12分 ~ 22时16分]"
+          "appearance_count": 8,
+          "time_info": "[19时12分 ~ 23时16分]"
         },
         {
           "title": "陈志被从柬埔寨押解回国",
