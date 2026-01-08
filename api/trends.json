@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T20:22:26.600501+08:00",
-  "total_titles_processed": 1921,
+  "generated_at": "2026-01-08T21:34:21.675739+08:00",
+  "total_titles_processed": 2032,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 20时22分]"
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 21时34分]"
         },
         {
           "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
@@ -37,11 +37,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 20时22分]"
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 21时34分]"
         },
         {
           "title": "泰柬边境火药味犹存 美外交代表团急赴金边",
@@ -50,7 +51,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -61,7 +62,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
