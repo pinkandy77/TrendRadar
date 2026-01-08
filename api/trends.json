@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-01-08T21:34:21.675739+08:00",
-  "total_titles_processed": 2032,
+  "generated_at": "2026-01-08T22:16:11.612958+08:00",
+  "total_titles_processed": 2121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
       "match_count": 6,
       "titles": [
+        {
+          "title": "陈志被从柬埔寨押解回国",
+          "url": "https://www.toutiao.com/trending/7591828375578968127/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时12分 ~ 22时16分]"
+        },
+        {
+          "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32342594",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时12分 ~ 22时16分]"
+        },
         {
           "title": "陈志被从柬埔寨押解回国",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BF%97%E8%A2%AB%E4%BB%8E%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%8A%BC%E8%A7%A3%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
@@ -19,30 +44,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时18分 ~ 19时13分]"
-        },
-        {
-          "title": "陈志被从柬埔寨押解回国",
-          "url": "https://www.toutiao.com/trending/7591828375578968127/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时12分 ~ 21时34分]"
-        },
-        {
-          "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32342594",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时12分 ~ 21时34分]"
         },
         {
           "title": "泰柬边境火药味犹存 美外交代表团急赴金边",
