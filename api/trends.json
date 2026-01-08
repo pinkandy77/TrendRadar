@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T00:16:16.275078+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-09T01:19:04.281261+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
@@ -15,8 +15,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 01时19分]"
+        },
+        {
+          "title": "陈志被从柬埔寨押解回国",
+          "url": "https://www.toutiao.com/trending/7591828375578968127/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 01时19分]"
         }
       ]
     }
