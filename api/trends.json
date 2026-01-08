@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T03:12:49.303400+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-01-09T04:13:00.801031+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32342594",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时13分]"
         },
         {
           "title": "陈志被从柬埔寨押解回国",
