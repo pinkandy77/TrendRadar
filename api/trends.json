@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T03:13:13.321848+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-01-10T04:13:41.547535+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
@@ -15,22 +15,24 @@
             19,
             8,
             10,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 04时13分]"
         },
         {
           "title": "35岁男子柬埔寨转机后失联",
           "url": "https://s.weibo.com/weibo?q=%2335%E5%B2%81%E7%94%B7%E5%AD%90%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%BD%AC%E6%9C%BA%E5%90%8E%E5%A4%B1%E8%81%94%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 04时13分]"
         }
       ]
     }
