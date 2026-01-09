@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T23:12:52.244675+08:00",
-  "total_titles_processed": 2263,
+  "generated_at": "2026-01-10T00:14:21.422988+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
@@ -8,34 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32342594",
-          "source": "澎湃新闻",
+          "title": "流落柬埔寨街头女子已出院准备回国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%E5%A5%B3%E5%AD%90%E5%B7%B2%E5%87%BA%E9%99%A2%E5%87%86%E5%A4%87%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            13,
-            11,
-            8,
-            6,
-            5,
-            3
+            19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时16分 ~ 17时18分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         },
         {
-          "title": "陈志被从柬埔寨押解回国",
-          "url": "https://www.toutiao.com/trending/7591828375578968127/",
-          "source": "今日头条",
+          "title": "35岁男子柬埔寨转机后失联",
+          "url": "https://s.weibo.com/weibo?q=%2335%E5%B2%81%E7%94%B7%E5%AD%90%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%BD%AC%E6%9C%BA%E5%90%8E%E5%A4%B1%E8%81%94%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            26,
-            24,
-            22
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时11分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         }
       ]
     }
