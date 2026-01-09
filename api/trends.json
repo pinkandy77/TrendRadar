@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T02:17:16.583333+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-01-10T03:13:13.321848+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             19,
             8,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 03时13分]"
         },
         {
           "title": "35岁男子柬埔寨转机后失联",
