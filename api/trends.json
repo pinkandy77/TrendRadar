@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T16:16:57.636491+08:00",
-  "total_titles_processed": 1535,
+  "generated_at": "2026-01-09T17:18:22.820163+08:00",
+  "total_titles_processed": 1640,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             11,
             8,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时16分 ~ 16时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 17时18分]"
         },
         {
           "title": "陈志被从柬埔寨押解回国",
