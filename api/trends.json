@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T00:12:10.640578+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-11T01:09:36.416012+08:00",
+  "total_titles_processed": 342,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 00时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时09分]"
         },
         {
           "title": "柬埔寨国王颁令：撤销陈志国籍",
           "url": "https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9B%BD%E7%8E%8B%E9%A2%81%E4%BB%A4%EF%BC%9A%E6%92%A4%E9%94%80%E9%99%88%E5%BF%97%E5%9B%BD%E7%B1%8D",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 00时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时09分]"
         },
         {
           "title": "柬政府确认：柬国王颁令撤销太子集团创始人陈志柬埔寨国籍",
@@ -36,9 +37,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时09分]"
         }
       ]
     }
