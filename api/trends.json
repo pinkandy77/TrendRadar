@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T18:11:22.894894+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-01-11T19:09:24.089210+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时10分 ~ 18时11分]"
+          "appearance_count": 16,
+          "time_info": "[07时10分 ~ 19时09分]"
         },
         {
           "title": "柬埔寨国王颁令：撤销陈志国籍",
