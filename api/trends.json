@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T06:12:22.360111+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-01-14T07:12:07.385550+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "柬埔寨街头“狗笼运活人”视频疯传",
@@ -28,11 +28,12 @@
             18,
             15,
             9,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时12分]"
         }
       ]
     }
