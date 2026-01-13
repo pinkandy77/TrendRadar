@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T22:16:25.631170+08:00",
-  "total_titles_processed": 2091,
+  "generated_at": "2026-01-13T23:15:42.864255+08:00",
+  "total_titles_processed": 2204,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8psqNg8tozg",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 22时16分]"
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 23时15分]"
         },
         {
           "title": "柬埔寨街头“狗笼运活人”视频疯传",
@@ -25,11 +26,12 @@
           "ranks": [
             23,
             16,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时22分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[20时22分 ~ 23时15分]"
         },
         {
           "title": "柬埔寨狗笼运活人视频疯传",
