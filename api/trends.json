@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T21:34:44.568442+08:00",
-  "total_titles_processed": 2005,
+  "generated_at": "2026-01-13T22:16:25.631170+08:00",
+  "total_titles_processed": 2091,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 21时34分]"
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 22时16分]"
+        },
+        {
+          "title": "柬埔寨街头“狗笼运活人”视频疯传",
+          "url": "https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%E2%80%9C%E7%8B%97%E7%AC%BC%E8%BF%90%E6%B4%BB%E4%BA%BA%E2%80%9D%E8%A7%86%E9%A2%91%E7%96%AF%E4%BC%A0",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时22分 ~ 22时16分]"
         },
         {
           "title": "柬埔寨狗笼运活人视频疯传",
@@ -25,18 +38,6 @@
           "ranks": [
             13,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 21时34分]"
-        },
-        {
-          "title": "柬埔寨街头“狗笼运活人”视频疯传",
-          "url": "https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%E2%80%9C%E7%8B%97%E7%AC%BC%E8%BF%90%E6%B4%BB%E4%BA%BA%E2%80%9D%E8%A7%86%E9%A2%91%E7%96%AF%E4%BC%A0",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
