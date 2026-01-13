@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-01-14T02:18:56.714587+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2026-01-14T03:13:45.682257+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
       "match_count": 2,
       "titles": [
-        {
-          "title": "柬埔寨街头“狗笼运活人”视频疯传",
-          "url": "https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%E2%80%9C%E7%8B%97%E7%AC%BC%E8%BF%90%E6%B4%BB%E4%BA%BA%E2%80%9D%E8%A7%86%E9%A2%91%E7%96%AF%E4%BC%A0",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时18分]"
-        },
         {
           "title": "太子集团在柬埔寨的房地产项目被禁止销售",
           "url": "https://news.ifeng.com/c/8psqNg8tozg",
@@ -28,8 +15,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时13分]"
+        },
+        {
+          "title": "柬埔寨街头“狗笼运活人”视频疯传",
+          "url": "https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%E2%80%9C%E7%8B%97%E7%AC%BC%E8%BF%90%E6%B4%BB%E4%BA%BA%E2%80%9D%E8%A7%86%E9%A2%91%E7%96%AF%E4%BC%A0",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            6,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时13分]"
         }
       ]
     }
