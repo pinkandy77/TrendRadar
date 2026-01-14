@@ -1,54 +1,7 @@
 {
-  "generated_at": "2026-01-14T23:15:58.173090+08:00",
-  "total_titles_processed": 2235,
+  "generated_at": "2026-01-15T00:16:33.217384+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "太子集团在柬埔寨的房地产项目被禁止销售",
-          "url": "https://news.ifeng.com/c/8psqNg8tozg",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 10时59分]"
-        },
-        {
-          "title": "柬埔寨街头“狗笼运活人”视频疯传",
-          "url": "https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%E2%80%9C%E7%8B%97%E7%AC%BC%E8%BF%90%E6%B4%BB%E4%BA%BA%E2%80%9D%E8%A7%86%E9%A2%91%E7%96%AF%E4%BC%A0",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            6,
-            18,
-            15,
-            9,
-            14,
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 08时53分]"
-        },
-        {
-          "title": "柬埔寨警方辟谣“狗笼运活人”",
-          "url": "https://www.douyin.com/hot/2366736",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时17分 ~ 20时21分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
