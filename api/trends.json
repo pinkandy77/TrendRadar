@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T19:11:50.331617+08:00",
-  "total_titles_processed": 1834,
+  "generated_at": "2026-01-15T20:21:27.731279+08:00",
+  "total_titles_processed": 1936,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             24,
-            9
+            9,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 19时11分]"
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 20时21分]"
         },
         {
           "title": "柬埔寨：泰国要求推迟联合边界委员会特别会议",
