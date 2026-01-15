@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T17:18:12.762412+08:00",
-  "total_titles_processed": 1657,
+  "generated_at": "2026-01-15T18:13:48.668116+08:00",
+  "total_titles_processed": 1747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "柬埔寨：泰国要求推迟联合边界委员会特别会议",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时12分]"
+        },
+        {
+          "title": "流落柬埔寨街头的女网红已回国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%E7%9A%84%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%B7%B2%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         }
       ]
     }
