@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T20:18:51.957699+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-01-17T21:23:33.936829+08:00",
+  "total_titles_processed": 1461,
   "failed_sources": [],
   "trends": [
     {
@@ -40,6 +40,18 @@
           "time_info": "[01时16分 ~ 07时12分]"
         },
         {
+          "title": "多名中国公民在柬失联失踪 中国驻柬埔寨大使汪文斌约见柬副首相",
+          "url": "https://www.cls.cn/detail/2261084",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时13分 ~ 21时23分]"
+        },
+        {
           "title": "多名中国公民在柬失联失踪，中国驻柬埔寨大使汪文斌约见柬副首相",
           "url": "https://flash.jin10.com/detail/20260117113832834800",
           "source": "金十数据",
@@ -53,18 +65,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时23分 ~ 16时14分]"
-        },
-        {
-          "title": "多名中国公民在柬失联失踪 中国驻柬埔寨大使汪文斌约见柬副首相",
-          "url": "https://www.cls.cn/detail/2261084",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时13分 ~ 20时18分]"
         }
       ]
     }
