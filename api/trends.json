@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T15:12:08.842357+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-01-17T16:14:10.957635+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "柬埔寨将对中国公民试行免签政策",
@@ -30,11 +30,12 @@
             3,
             8,
             14,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时50分 ~ 15时12分]"
+          "appearance_count": 6,
+          "time_info": "[11时50分 ~ 16时14分]"
         },
         {
           "title": "多名中国公民在柬失联失踪，中国驻柬埔寨大使汪文斌约见柬副首相",
@@ -44,11 +45,23 @@
             1,
             6,
             8,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 15时12分]"
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 16时14分]"
+        },
+        {
+          "title": "多名中国公民在柬失联失踪 中国驻柬埔寨大使汪文斌约见柬副首相",
+          "url": "https://www.cls.cn/detail/2261084",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 16时14分]"
         }
       ]
     }
