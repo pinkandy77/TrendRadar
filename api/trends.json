@@ -1,41 +1,7 @@
 {
-  "generated_at": "2026-01-18T23:10:26.081569+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-01-19T00:12:44.184629+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "多名中国公民在柬失联失踪，中国驻柬埔寨大使汪文斌约见柬副首相",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32406433",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时11分 ~ 11时02分]"
-        },
-        {
-          "title": "多名中国公民在柬失联失踪 中国驻柬埔寨大使汪文斌约见柬副首相",
-          "url": "https://www.cls.cn/detail/2261084",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时11分 ~ 16时14分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
