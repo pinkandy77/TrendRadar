@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T07:10:48.022299+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-01-18T08:56:29.518843+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 08时56分]"
         },
         {
           "title": "多名中国公民在柬失联失踪 中国驻柬埔寨大使汪文斌约见柬副首相",
