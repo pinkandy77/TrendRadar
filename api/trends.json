@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T07:11:42.638967+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-01-20T08:50:58.494894+08:00",
+  "total_titles_processed": 772,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "叶某斌偷渡至柬埔寨从事电诈被刑拘",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 07时11分]"
+        },
+        {
+          "title": "江西铅山警方通报“19岁小伙失联柬埔寨”：电诈园区近期将其送出，非法入境时被查获",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32417458",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
         }
       ]
     }
