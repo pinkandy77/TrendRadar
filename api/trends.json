@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T14:21:02.599489+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2026-01-20T15:20:43.930596+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时50分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[08时50分 ~ 15时20分]"
         },
         {
           "title": "叶某斌偷渡至柬埔寨从事电诈被刑拘",
