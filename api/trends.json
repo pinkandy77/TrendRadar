@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T16:18:21.961429+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-01-20T17:24:14.551697+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "江西铅山警方通报“19岁小伙失联柬埔寨”：电诈园区近期将其送出，非法入境时被查获",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时50分 ~ 16时18分]"
+          "appearance_count": 12,
+          "time_info": "[08时50分 ~ 17时24分]"
         },
         {
           "title": "叶某斌偷渡至柬埔寨从事电诈被刑拘",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 07时11分]"
+        },
+        {
+          "title": "警方通报叶文斌在柬埔寨失联事件，系主动参与诈骗，已被刑拘，此前其母亲赴柬寻子引关注，如何看待？",
+          "url": "https://www.zhihu.com/question/1996891234078253184",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         }
       ]
     }
