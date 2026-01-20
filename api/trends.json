@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-01-20T22:21:44.995374+08:00",
-  "total_titles_processed": 2021,
-  "failed_sources": [],
+  "generated_at": "2026-01-20T23:22:17.425478+08:00",
+  "total_titles_processed": 2117,
+  "failed_sources": [
+    "weibo",
+    "douyin"
+  ],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
@@ -35,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时23分 ~ 22时21分]"
+          "appearance_count": 10,
+          "time_info": "[17时23分 ~ 23时22分]"
         },
         {
           "title": "叶某斌偷渡至柬埔寨从事电诈被刑拘",
