@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-01-21T23:20:22.326394+08:00",
-  "total_titles_processed": 2228,
+  "generated_at": "2026-01-22T00:23:43.401557+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "警方通报叶文斌在柬埔寨失联事件，系主动参与诈骗，已被刑拘，此前其母亲赴柬寻子引关注，如何看待？",
-          "url": "https://www.zhihu.com/question/1996891234078253184",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时13分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
