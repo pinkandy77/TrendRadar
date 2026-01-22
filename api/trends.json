@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T17:23:11.768961+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2026-01-22T18:17:09.523009+08:00",
+  "total_titles_processed": 1685,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             29,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 17时23分]"
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 18时17分]"
         },
         {
           "title": "叶某斌柬埔寨失联事件追踪：偷渡出境轨迹曝光，“母亲寻子被遣返”系谣言",
@@ -28,8 +29,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 18时17分]"
         }
       ]
     }
