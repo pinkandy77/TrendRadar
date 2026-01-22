@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T16:17:24.612410+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2026-01-22T17:23:11.768961+08:00",
+  "total_titles_processed": 1604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "央视梳理男子柬埔寨失联始末",
@@ -13,11 +13,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            29
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 17时23分]"
+        },
+        {
+          "title": "叶某斌柬埔寨失联事件追踪：偷渡出境轨迹曝光，“母亲寻子被遣返”系谣言",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440410",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时17分]"
+          "time_info": "[17时22分 ~ 17时23分]"
         }
       ]
     }
