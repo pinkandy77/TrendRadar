@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-22T19:15:45.882093+08:00",
-  "total_titles_processed": 1796,
+  "generated_at": "2026-01-22T20:23:49.286072+08:00",
+  "total_titles_processed": 1898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "母亲在柬埔寨寻子儿子在园区诈骗",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%AF%BB%E5%AD%90%E5%84%BF%E5%AD%90%E5%9C%A8%E5%9B%AD%E5%8C%BA%E8%AF%88%E9%AA%97%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
         {
           "title": "央视梳理男子柬埔寨失联始末",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E6%A2%B3%E7%90%86%E7%94%B7%E5%AD%90%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A4%B1%E8%81%94%E5%A7%8B%E6%9C%AB",
@@ -26,11 +37,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32440410",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 19时15分]"
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 20时23分]"
         }
       ]
     }
