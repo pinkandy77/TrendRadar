@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-24T08:50:50.853516+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2026-01-24T10:49:25.321351+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "母亲赴柬埔寨寻子被遣返系谣言",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E8%B5%B4%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%AF%BB%E5%AD%90%E8%A2%AB%E9%81%A3%E8%BF%94%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
