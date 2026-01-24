@@ -1,34 +1,22 @@
 {
-  "generated_at": "2026-01-24T23:10:35.928845+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2026-01-25T00:12:32.719586+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "母亲赴柬埔寨寻子被遣返系谣言",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E8%B5%B4%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%AF%BB%E5%AD%90%E8%A2%AB%E9%81%A3%E8%BF%94%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时49分 ~ 17时11分]"
-        },
         {
           "title": "中方援建柬埔寨后，美军舰首访",
           "url": "https://news.ifeng.com/c/8qB8cuHR6vk",
           "source": "凤凰网",
           "ranks": [
-            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时11分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         }
       ]
     }
