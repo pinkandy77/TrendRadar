@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-01-25T23:10:43.997533+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-01-26T00:13:21.065020+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中方援建柬埔寨后，美军舰首访",
-          "url": "https://news.ifeng.com/c/8qB8cuHR6vk",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时12分 ~ 12时44分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
