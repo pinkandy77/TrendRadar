@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-29T23:25:07.676821+08:00",
-  "total_titles_processed": 2299,
+  "generated_at": "2026-01-30T00:29:08.390483+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "泰国称起诉柬埔寨领导人 柬方表示抗议",
-          "url": "https://wallstreetcn.com/livenews/3046199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
