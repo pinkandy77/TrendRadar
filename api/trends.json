@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-02-03T23:39:20.454628+08:00",
-  "total_titles_processed": 2012,
+  "generated_at": "2026-02-04T00:43:16.280831+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "波音(BA.N)公司和柬埔寨航空宣布，柬埔寨航空订购了迄今为止最大的单通道飞机订单，最多将订购20架737 MAX飞机。",
-          "url": "https://flash.jin10.com/detail/20260203151003901800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
