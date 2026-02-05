@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-02-05T23:31:54.439017+08:00",
-  "total_titles_processed": 2140,
+  "generated_at": "2026-02-06T00:33:22.507642+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "泰国军方称柬埔寨向泰境内发射一枚榴弹",
-          "url": "https://flash.jin10.com/detail/20260205132025796800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
