@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-02-11T23:48:12.017240+08:00",
-  "total_titles_processed": 1947,
+  "generated_at": "2026-02-12T00:52:04.090797+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“撤销陈志国籍后，柬埔寨有责任将其遣送回中国”",
-          "url": "https://news.ifeng.com/c/8qdIKvAWzSn",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时52分 ~ 09时12分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
