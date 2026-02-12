@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-02-12T23:40:54.661640+08:00",
-  "total_titles_processed": 2054,
+  "generated_at": "2026-02-13T00:45:04.076384+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "柬埔寨制定《反电信网络诈骗法",
-          "url": "https://wallstreetcn.com/livenews/3054428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
