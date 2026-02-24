@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-02-24T23:46:51.916750+08:00",
-  "total_titles_processed": 1932,
+  "generated_at": "2026-02-25T00:53:44.238355+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：泰国方面称军方报告了与柬埔寨军队的边境事件，目前无人员受伤。",
-          "url": "https://flash.jin10.com/detail/20260224171355606800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时37分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
