@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-25T22:02:43.363210+08:00",
-  "total_titles_processed": 1848,
+  "generated_at": "2026-02-26T00:01:25.225464+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "22岁中国女子在柬埔寨俱乐部坠亡",
+          "url": "https://www.baidu.com/s?wd=22%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E4%BF%B1%E4%B9%90%E9%83%A8%E5%9D%A0%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
