@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T09:01:28.355808+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2026-02-26T11:33:55.327022+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "22岁中国女子在柬埔寨俱乐部坠亡",
@@ -22,6 +22,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时01分 ~ 07时26分]"
+        },
+        {
+          "title": "柬埔寨首相：希望缓和与泰国之间的关系",
+          "url": "https://flash.jin10.com/detail/20260226105055785800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         }
       ]
     }
