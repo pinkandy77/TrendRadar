@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T05:18:29.584486+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-02-28T06:13:16.103100+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,22 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 06时13分]"
+        },
+        {
+          "title": "柬埔寨国王太后赴华体检 汪文斌送行",
+          "url": "https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9B%BD%E7%8E%8B%E5%A4%AA%E5%90%8E%E8%B5%B4%E5%8D%8E%E4%BD%93%E6%A3%80+%E6%B1%AA%E6%96%87%E6%96%8C%E9%80%81%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            12,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 06时13分]"
         },
         {
           "title": "汪文斌给赴华体检的柬埔寨国王送行",
@@ -32,19 +46,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 03时26分]"
-        },
-        {
-          "title": "柬埔寨国王太后赴华体检 汪文斌送行",
-          "url": "https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9B%BD%E7%8E%8B%E5%A4%AA%E5%90%8E%E8%B5%B4%E5%8D%8E%E4%BD%93%E6%A3%80+%E6%B1%AA%E6%96%87%E6%96%8C%E9%80%81%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 04时17分]"
         }
       ]
     }
