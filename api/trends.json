@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T21:51:54.949190+08:00",
-  "total_titles_processed": 1887,
+  "generated_at": "2026-02-27T22:32:02.962896+08:00",
+  "total_titles_processed": 1979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "柬埔寨国王和太后抵京",
@@ -17,8 +17,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 21时51分]"
+          "appearance_count": 8,
+          "time_info": "[17时31分 ~ 22时32分]"
+        },
+        {
+          "title": "汪文斌给赴华体检的柬埔寨国王送行",
+          "url": "https://www.toutiao.com/trending/7611078565454564870/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
         }
       ]
     }
