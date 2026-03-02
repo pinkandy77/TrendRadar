@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-02T23:31:59.496465+08:00",
-  "total_titles_processed": 2156,
+  "generated_at": "2026-03-03T00:31:39.927852+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英国两年期金边债券收益率正朝着自2024年8月以来的最大单日涨幅迈进，当日上涨16个基点，报3.693%。",
+          "url": "https://flash.jin10.com/detail/20260303000246550800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
