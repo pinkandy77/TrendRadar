@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-03-06T23:26:33.880907+08:00",
-  "total_titles_processed": 2028,
+  "generated_at": "2026-03-07T00:26:14.232111+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "柬埔寨首相称将坚决铲除电信网络诈骗",
-          "url": "https://wallstreetcn.com/livenews/3065203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时29分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
