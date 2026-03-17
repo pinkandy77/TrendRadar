@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-03-17T23:52:59.403692+08:00",
-  "total_titles_processed": 2107,
+  "generated_at": "2026-03-18T00:53:52.962549+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "凤凰女记者探访柬埔寨电诈区：空城让人非常紧张",
-          "url": "https://news.ifeng.com/c/8rYxTDFRPoq",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时06分 ~ 19时36分]"
-        },
-        {
-          "title": "中方援柬警用物资交接仪式在金边举行",
-          "url": "https://wallstreetcn.com/livenews/3071619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
