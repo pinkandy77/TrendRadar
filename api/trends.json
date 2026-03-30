@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-03-30T23:59:21.458980+08:00",
-  "total_titles_processed": 1787,
+  "generated_at": "2026-03-31T00:52:39.404399+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "柬埔寨国会通过《反电信网络诈骗法》草案",
-          "url": "https://wallstreetcn.com/livenews/3078963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 14时24分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
