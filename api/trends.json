@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-04-01T22:24:35.761538+08:00",
-  "total_titles_processed": 1902,
+  "generated_at": "2026-04-02T00:02:19.285064+08:00",
+  "total_titles_processed": 321,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中柬执法合作再获重大战果 陈志犯罪集团核心骨干成员李雄被从柬埔寨押解回国",
-          "url": "https://wallstreetcn.com/livenews/3080604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时38分"
-        },
-        {
-          "title": "陈志犯罪集团核心骨干成员李雄被从柬埔寨押解回国",
-          "url": "https://flash.jin10.com/detail/20260401120052474800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时38分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
