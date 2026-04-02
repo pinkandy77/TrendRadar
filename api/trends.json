@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-02T23:59:34.714128+08:00",
-  "total_titles_processed": 2071,
+  "generated_at": "2026-04-03T01:07:19.174234+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "李雄被从柬埔寨押解回国",
-          "url": "https://www.douyin.com/hot/2451104",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
