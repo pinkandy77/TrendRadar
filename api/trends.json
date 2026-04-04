@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T18:22:50.197267+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-04-04T19:20:12.130452+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 19时20分]"
         },
         {
           "title": "19岁少女柬埔寨失联事件迎反转",
