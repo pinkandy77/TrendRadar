@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T23:36:49.172787+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-04-07T00:34:35.194581+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "柬埔寨为“英雄探雷鼠”立像",
-          "url": "https://news.ifeng.com/c/8s4s3J0t7wI",
-          "source": "凤凰网",
+          "title": "柬埔寨颁布法律打击电信网络诈骗",
+          "url": "https://wallstreetcn.com/livenews/3082892",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时15分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
         }
       ]
     }
