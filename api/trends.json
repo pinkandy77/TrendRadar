@@ -1,39 +1,7 @@
 {
-  "generated_at": "2026-04-11T23:23:26.127879+08:00",
-  "total_titles_processed": 1616,
+  "generated_at": "2026-04-12T00:23:18.724550+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "柬埔寨国王西哈莫尼确诊前列腺癌，正在北京接受治疗",
-          "url": "https://news.ifeng.com/c/8sDb85q0wEP",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时10分 ~ 20时31分]"
-        },
-        {
-          "title": "中方投资的柬埔寨首座千兆瓦级抽水蓄能电站开工",
-          "url": "https://wallstreetcn.com/livenews/3086025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时37分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
