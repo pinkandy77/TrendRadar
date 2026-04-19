@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-04-19T16:01:58.141079+08:00",
-  "total_titles_processed": 920,
-  "failed_sources": [
-    "bilibili-hot-search"
-  ],
+  "generated_at": "2026-04-19T16:53:51.062330+08:00",
+  "total_titles_processed": 960,
+  "failed_sources": [],
   "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
