@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T02:55:07.672844+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-04-22T03:58:20.255143+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2473941",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时58分]"
         },
         {
           "title": "柬埔寨国王在京手术 洪森：感谢中方",
@@ -26,8 +27,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时58分]"
         },
         {
           "title": "柬埔寨国王在京手术 洪森携子看望",
@@ -36,11 +37,12 @@
           "ranks": [
             18,
             30,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时58分]"
         }
       ]
     }
