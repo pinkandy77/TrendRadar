@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-21T16:25:56.945041+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-04-21T18:17:23.474095+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "王毅将访问柬埔寨泰国缅甸",
+          "url": "https://www.douyin.com/hot/2473941",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
         {
           "title": "王毅将访问柬埔寨、泰国、缅甸 外交部介绍中方期待",
           "url": "https://wallstreetcn.com/livenews/3091636",
@@ -14,9 +25,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "王毅将访问柬埔寨泰国缅甸",
+          "url": "https://www.toutiao.com/trending/7631059058506596379/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     }
