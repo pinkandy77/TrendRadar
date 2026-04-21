@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T03:58:20.255143+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-04-22T04:43:09.947842+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 04时43分]"
         },
         {
           "title": "柬埔寨国王在京手术 洪森：感谢中方",
@@ -27,8 +27,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 04时43分]"
         },
         {
           "title": "柬埔寨国王在京手术 洪森携子看望",
@@ -41,8 +41,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 04时43分]"
         }
       ]
     }
