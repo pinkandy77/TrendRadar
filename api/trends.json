@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T19:53:07.665188+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-04-21T21:15:02.675429+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "王毅将访问柬埔寨泰国缅甸",
@@ -13,11 +13,34 @@
           "source": "抖音",
           "ranks": [
             12,
-            27
+            27,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时53分]"
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 21时15分]"
+        },
+        {
+          "title": "柬埔寨国王在京手术 洪森携子看望",
+          "url": "https://www.toutiao.com/trending/7630628101822890022/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
+        },
+        {
+          "title": "柬埔寨国王在京手术 洪森：感谢中方",
+          "url": "https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9B%BD%E7%8E%8B%E5%9C%A8%E4%BA%AC%E6%89%8B%E6%9C%AF+%E6%B4%AA%E6%A3%AE%EF%BC%9A%E6%84%9F%E8%B0%A2%E4%B8%AD%E6%96%B9",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
         },
         {
           "title": "王毅将访问柬埔寨、泰国、缅甸 外交部介绍中方期待",
