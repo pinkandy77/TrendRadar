@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T09:22:11.510131+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2026-04-23T12:42:01.636731+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            2
+            2,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 09时22分]"
+          "appearance_count": 5,
+          "time_info": "[07时37分 ~ 12时42分]"
         },
         {
           "title": "柬埔寨首相洪玛奈会见王毅一行",
