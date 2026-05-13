@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-13T22:14:51.296102+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-05-14T00:33:58.806729+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "柬埔寨电诈园区被警方突袭视频曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E8%A2%AB%E8%AD%A6%E6%96%B9%E7%AA%81%E8%A2%AD%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
