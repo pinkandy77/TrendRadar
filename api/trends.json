@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T16:57:21.892555+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-05-27T20:11:30.765610+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.cls.cn/detail/2382584",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 20时11分]"
         },
         {
           "title": "越来越多曾在柬埔寨等国从事电诈的人员正转移至印尼作案，中使馆提醒",
           "url": "https://m.thepaper.cn/newsDetail_forward_33243463",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 20时11分]"
         }
       ]
     }
