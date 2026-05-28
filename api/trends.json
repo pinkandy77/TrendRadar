@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T17:55:24.560470+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-05-28T21:01:48.743080+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "越来越多曾在柬埔寨等国从事电诈的人员正转移至印尼作案，中使馆提醒",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 09时48分]"
+        },
+        {
+          "title": "涉嫌虐杀韩国大学生，6名中国电诈分子被柬埔寨法院判处终身监禁",
+          "url": "https://news.ifeng.com/c/8tUq2NbxiLQ",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时00分 ~ 21时01分]"
         }
       ]
     }
