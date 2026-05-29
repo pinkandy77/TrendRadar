@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-29T21:53:06.247830+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2026-05-30T01:25:49.333175+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "涉嫌虐杀韩国大学生，6名中国电诈分子被柬埔寨法院判处终身监禁",
-          "url": "https://news.ifeng.com/c/8tUq2NbxiLQ",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 09时57分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
