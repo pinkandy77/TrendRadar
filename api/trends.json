@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T21:07:28.689675+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-05-31T23:09:25.147378+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
@@ -26,20 +26,21 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 23时09分]"
         },
         {
           "title": "柬埔寨一中国地产商遇害",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%9C%B0%E4%BA%A7%E5%95%86%E9%81%87%E5%AE%B3%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 23时09分]"
         }
       ]
     }
