@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-02T21:53:07.222629+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-06-03T01:59:08.310298+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国地产商在柬埔寨被残忍杀害，中使馆发声",
-          "url": "https://news.ifeng.com/c/8tcXmkBxmBA",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
