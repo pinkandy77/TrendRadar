@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-06-16T20:02:32.915923+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-06-17T00:49:23.022442+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "FBI特工已获准进入柬埔寨电诈园区",
-          "url": "https://news.ifeng.com/c/8tydTLsAyVI",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时36分 ~ 08时21分]"
-        },
-        {
-          "title": "FBI特工获准进入柬埔寨电诈园区",
-          "url": "https://www.toutiao.com/trending/7651278054765969450/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
