@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-06-20T23:27:50.699518+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-06-21T01:13:30.658060+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "泰国告知柬埔寨就重叠海域问题强制调解程序人员安排",
-          "url": "https://wallstreetcn.com/livenews/3122145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时22分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
