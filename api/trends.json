@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-06-22T08:05:59.404618+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-06-22T14:17:32.579547+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "在柬埔寨递枪劫囚，“江湖最后大嫂”获刑8年，主谋丈夫重判14年",
+          "url": "https://news.ifeng.com/c/8uA1R5ydB4W",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "柬埔寨劫囚救夫女子获刑8年",
+          "url": "https://www.toutiao.com/trending/7654056554292772883/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
