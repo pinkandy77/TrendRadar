@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-25T12:56:51.180623+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2026-06-25T16:17:02.496894+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "柬埔寨参议院主席洪森抵京，开启访华之旅",
+          "url": "https://news.ifeng.com/c/8uF7un4xyId",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
