@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T08:03:15.591392+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2026-06-26T13:02:25.697993+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "匈牙利国债收益率逼近英国金边债券，亲欧转向助推市场大涨",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "习近平会见柬埔寨人民党主席、参议院主席洪森。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3125034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     }
