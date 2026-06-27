@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-27T23:58:14.181547+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2026-06-28T01:02:37.527056+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "外交部长王毅会见柬埔寨副首相兼外交大臣布拉索昆和副首相孙占托",
-          "url": "https://wallstreetcn.com/livenews/3125422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时21分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
