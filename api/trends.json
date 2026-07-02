@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T06:56:07.714468+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-07-03T07:55:02.605950+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时56分 ~ 06时56分]"
+          "appearance_count": 5,
+          "time_info": "[05时56分 ~ 07时55分]"
         },
         {
           "title": "男子在柬埔寨被两次转卖惨不忍睹",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A2%AB%E4%B8%A4%E6%AC%A1%E8%BD%AC%E5%8D%96%E6%83%A8%E4%B8%8D%E5%BF%8D%E7%9D%B9%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 07时55分]"
         }
       ]
     }
