@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-07-16T23:24:22.572553+08:00",
-  "total_titles_processed": 1841,
+  "generated_at": "2026-07-17T01:02:13.387127+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "柬埔寨首相抵达上海比手势问候",
-          "url": "https://www.toutiao.com/trending/7663055358369402378/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
-        },
-        {
-          "title": "李强同柬埔寨首相洪玛奈会谈",
-          "url": "https://wallstreetcn.com/livenews/3135022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
