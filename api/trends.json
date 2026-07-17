@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-17T22:25:56.990377+08:00",
-  "total_titles_processed": 1732,
+  "generated_at": "2026-07-18T00:06:49.789036+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "习近平会见柬埔寨首相洪玛奈",
-          "url": "https://wallstreetcn.com/livenews/3135603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
