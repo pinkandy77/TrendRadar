@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-19T17:42:50.314894+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-07-19T19:03:03.320983+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "柬埔寨重申坚定奉行一个中国政策",
+          "url": "https://www.toutiao.com/trending/7663715914684383283/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时03分]"
+        },
         {
           "title": "中国商飞：公司与柬埔寨民航国务秘书处签署战略合作谅解备忘录",
           "url": "https://flash.jin10.com/detail/20260719081831238800",
