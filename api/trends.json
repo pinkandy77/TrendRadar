@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-07-19T23:44:30.337137+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2026-07-20T00:43:02.813713+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "柬埔寨重申坚定奉行一个中国政策",
-          "url": "https://www.toutiao.com/trending/7663715914684383283/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
-        },
-        {
-          "title": "中国商飞：公司与柬埔寨民航国务秘书处签署战略合作谅解备忘录",
-          "url": "https://flash.jin10.com/detail/20260719081831238800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "中国商飞：公司与柬埔寨民航国务秘书处签署战略合作谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3136089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
