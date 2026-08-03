@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-08-03T23:35:34.211703+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2026-08-04T01:39:31.140721+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "联合国专家质问：打击电诈，柬埔寨政府为何没查权贵？",
-          "url": "https://news.ifeng.com/c/8vF72xGFD8A",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时48分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://pinkandy77.github.io/TrendRadar/img/news.jpg"
 }
