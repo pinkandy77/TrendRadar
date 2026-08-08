@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-08-08T23:17:49.218667+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-08-09T00:18:12.461803+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "柬埔寨 金边 西港 吴哥窟 暹粒",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "柬埔寨一园区围殴中国人致1死3伤",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E4%B8%80%E5%9B%AD%E5%8C%BA%E5%9B%B4%E6%AE%B4%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%87%B41%E6%AD%BB3%E4%BC%A4%23&t=31&band_rank=8&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E4%B8%80%E5%9B%AD%E5%8C%BA%E5%9B%B4%E6%AE%B4%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%87%B41%E6%AD%BB3%E4%BC%A4%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时17分"
-        },
-        {
-          "title": "4名中国男子在柬埔寨杀人抛尸，被判无期",
-          "url": "https://news.ifeng.com/c/8vPz95W7uO8",
-          "source": "凤凰网",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
         }
       ]
     }
